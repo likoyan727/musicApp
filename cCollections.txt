@@ -1,0 +1,9 @@
+Favorites 
+popMusic
+rockMusic
+jazzMusic
+hiphopMusic
+metalMusic
+classicalMusic
+otherMusic
+podcasts
